@@ -1,5 +1,5 @@
-TITLE   Standard MSDOS
-NAME    MSDOS_2
+TITLE   Standard MSTOMMY
+NAME    MSTOMMY_2
 
 ; Number of disk I/O buffers
 
